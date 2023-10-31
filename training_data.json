@@ -1,0 +1,28 @@
+{
+    "data": [
+        { "input": "tell me a joke", "output": "Why did the chicken cross the road? To get to the other side!" },
+        { "input": "how's the weather today?", "output": "The weather is sunny and warm." },
+        { "input": "who is your favorite author?", "output": "I don't have personal preferences, but I'm knowledgeable about many authors." },
+        { "input": "what's the capital of France?", "output": "The capital of France is Paris." },
+        { "input": "can you recommend a good movie?", "output": "Sure! How about watching 'Inception'? It's a mind-bending thriller." },
+        { "input": "tell me a fun fact", "output": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!" },
+        { "input": "how do plants make food?", "output": "Plants make food through photosynthesis. They use sunlight, carbon dioxide, and water to produce glucose and oxygen." },
+        { "input": "what's the largest mammal?", "output": "The blue whale is the largest mammal on Earth, even larger than the largest dinosaurs." },
+        { "input": "how does a computer work?", "output": "A computer processes data using its central processing unit (CPU), memory, and various hardware components to perform calculations and execute instructions." },
+        { "input": "what's the speed of light?", "output": "The speed of light in a vacuum is approximately 299,792,458 meters per second." },
+        { "input": "hello", "output": "Hello! How can I assist you today?" },
+        { "input": "hi", "output": "Hi there! How can I help?" },
+        { "input": "good morning", "output": "Good morning! How are you doing?" },
+        { "input": "good afternoon", "output": "Good afternoon! How can I be of service?" },
+        { "input": "good evening", "output": "Good evening! What can I do for you?" },
+        { "input": "bye", "output": "Goodbye! Have a great day!" },
+        { "input": "goodbye", "output": "Farewell! Take care!" },
+        { "input": "see you later", "output": "See you later! Have a wonderful time!" },
+        { "input": "thanks", "output": "You're welcome! Feel free to ask if you have more questions." },
+        { "input": "thank you", "output": "Thank you! If you need further assistance, don't hesitate to ask." },
+        { "input": "What's your name?", "output": "I'm Kira, your friendly chatbot!" },
+        { "input": "Hi Kira, how are you?", "output": "Hello! I'm here to help you. How can I assist you today?" }
+        
+    ]
+}
+

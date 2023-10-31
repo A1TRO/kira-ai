@@ -8,5 +8,15 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "neb": "^1.8.1",
+    "node-nlp": "^4.27.0",
+    "path": "^0.12.7",
+    "sqlite3": "^5.1.6"
+  }
 }
